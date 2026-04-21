@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" fill="none">
+<rect width="1200" height="680" rx="32" fill="#f5f0ff"/>
+<rect x="54" y="54" width="1092" height="572" rx="28" fill="white" stroke="#DDE7F3" stroke-width="4"/>
+<circle cx="228" cy="248" r="104" fill="#6b4ce6" opacity="0.12"/>
+<rect x="150" y="168" width="156" height="208" rx="30" fill="#6b4ce6" opacity="0.9"/>
+<circle cx="228" cy="156" r="54" fill="#6b4ce6" opacity="0.9"/>
+<circle cx="208" cy="148" r="8" fill="white"/>
+<circle cx="248" cy="148" r="8" fill="white"/>
+<rect x="188" y="186" width="80" height="22" rx="11" fill="white" opacity="0.95"/>
+<rect x="170" y="392" width="116" height="76" rx="18" fill="#6b4ce6" opacity="0.9"/>
+<rect x="156" y="464" width="40" height="112" rx="12" fill="#6b4ce6" opacity="0.9"/>
+<rect x="260" y="464" width="40" height="112" rx="12" fill="#6b4ce6" opacity="0.9"/>
+<rect x="334" y="116" width="720" height="170" rx="26" fill="#FFFFFF" stroke="#DDE7F3" stroke-width="4"/>
+<text x="372" y="182" font-size="52" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-weight="700" fill="#102033">赛博亲属站</text>
+<text x="372" y="230" font-size="28" font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#62748A">线上寻亲，线下断亲，先切“附近消失”</text>
+<rect x="356" y="326" width="634" height="218" rx="24" fill="#F8FBFF" stroke="#DDE7F3" stroke-width="4"/>
+<text x="396" y="386" font-size="30" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-weight="700" fill="#102033">课堂玩法</text>
+<text x="396" y="432" font-size="24" font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#62748A">• 先说现实支持网络为什么会变薄</text>
+<text x="396" y="470" font-size="24" font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#62748A">• 再说情感需求如何被模块化</text>
+<text x="396" y="508" font-size="24" font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#62748A">• 最后落到“重建附近”</text>
+<rect x="864" y="558" width="194" height="46" rx="23" fill="#6b4ce6" opacity="0.14"/>
+<text x="904" y="588" font-size="22" font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#6b4ce6">高考系统 v14</text>
+</svg>
