@@ -1,0 +1,978 @@
+[
+  {
+    "module": "必修上",
+    "title": "短歌行",
+    "author": "曹操",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "归园田居·其一",
+    "author": "陶渊明",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "梦游天姥吟留别",
+    "author": "李白",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "登高",
+    "author": "杜甫",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "琵琶行并序",
+    "author": "白居易",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "念奴娇·赤壁怀古",
+    "author": "苏轼",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "永遇乐·京口北固亭怀古",
+    "author": "辛弃疾",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "声声慢",
+    "author": "李清照",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "劝学",
+    "author": "",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "师说",
+    "author": "韩愈",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "赤壁赋",
+    "author": "苏轼",
+    "genre": "辞赋",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "登泰山记",
+    "author": "姚鼐",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "静女",
+    "author": "",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "涉江采芙蓉",
+    "author": "",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "虞美人",
+    "author": "李煜",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修上",
+    "title": "鹊桥仙",
+    "author": "秦观",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "子路、曾皙、冉有、公西华侍坐",
+    "author": "",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "谏太宗十思疏",
+    "author": "魏征",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "答司马谏议书",
+    "author": "王安石",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "阿房宫赋",
+    "author": "杜牧",
+    "genre": "辞赋",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "六国论",
+    "author": "苏洵",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "登岳阳楼",
+    "author": "杜甫",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "桂枝香·金陵怀古",
+    "author": "王安石",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "必修下",
+    "title": "念奴娇·过洞庭",
+    "author": "张孝祥",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必上",
+    "title": "论语十二章",
+    "author": "",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必上",
+    "title": "无衣",
+    "author": "",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必上",
+    "title": "春江花月夜",
+    "author": "张若虚",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必上",
+    "title": "将进酒",
+    "author": "李白",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必上",
+    "title": "江城子·乙卯正月二十日夜记梦",
+    "author": "苏轼",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "屈原列传",
+    "author": "司马迁",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "过秦论·上",
+    "author": "贾谊",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "五代史伶官传序",
+    "author": "欧阳修",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "燕歌行并序",
+    "author": "高适",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "李凭箜篌引",
+    "author": "李贺",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "锦瑟",
+    "author": "李商隐",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必中",
+    "title": "书愤",
+    "author": "陆游",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "离骚",
+    "author": "屈原",
+    "genre": "辞赋",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "蜀道难",
+    "author": "李白",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "蜀相",
+    "author": "杜甫",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "望海潮",
+    "author": "柳永",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "扬州慢",
+    "author": "姜夔",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "陈情表",
+    "author": "李密",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "项脊轩志",
+    "author": "归有光",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "兰亭集序",
+    "author": "王羲之",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "归去来兮辞并序",
+    "author": "陶渊明",
+    "genre": "辞赋",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "种树郭橐驼传",
+    "author": "柳宗元",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "石钟山记",
+    "author": "苏轼",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "拟行路难·其四",
+    "author": "鲍bào照",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "客至",
+    "author": "杜甫",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "登快阁",
+    "author": "黄庭坚",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "选必下",
+    "title": "临安春雨初霁",
+    "author": "陆游",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "报任安书",
+    "author": "司马迁",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "礼运",
+    "author": "",
+    "genre": "古文",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "山居秋暝",
+    "author": "王维",
+    "genre": "诗歌",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "菩萨蛮",
+    "author": "温庭筠",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "苏幕遮",
+    "author": "周邦彦",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "菩萨蛮·书江西造口壁",
+    "author": "辛弃疾",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "青玉案·元夕",
+    "author": "辛弃疾",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "贺新郎",
+    "author": "刘克庄",
+    "genre": "词",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "长亭送别",
+    "author": "王实甫",
+    "genre": "戏曲",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  },
+  {
+    "module": "拓展篇",
+    "title": "朝天子·咏喇叭",
+    "author": "王磐",
+    "genre": "戏曲",
+    "linked_question_count": 5,
+    "question_types": [
+      "主题定位",
+      "名句识别",
+      "方法起手",
+      "作者体裁",
+      "情感落点"
+    ],
+    "coverage": "covered",
+    "note": "升级版全量配题中心可直接作答"
+  }
+]

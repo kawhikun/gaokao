@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#123a64" offset="0"/><stop stop-color="#1d5b96" offset="1"/></linearGradient>
+</defs>
+<rect width="1200" height="720" rx="40" fill="url(#g)"/>
+<rect x="40" y="40" width="1120" height="640" rx="32" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.2"/>
+<text x="80" y="130" fill="#dceaf8" font-size="34" font-family="PingFang SC, Microsoft YaHei, sans-serif">高考梗图 / 课堂导入</text>
+<text x="80" y="280" fill="#ffffff" font-size="78" font-weight="700" font-family="PingFang SC, Microsoft YaHei, sans-serif">位卑则足羞</text>
+<text x="80" y="390" fill="#ffffff" font-size="78" font-weight="700" font-family="PingFang SC, Microsoft YaHei, sans-serif">官盛则近谀</text>
+<text x="80" y="530" fill="#eaf4ff" font-size="40" font-family="PingFang SC, Microsoft YaHei, sans-serif">师说 / 风气批评</text>
+<text x="80" y="618" fill="#dceaf8" font-size="28" font-family="PingFang SC, Microsoft YaHei, sans-serif">用于 GitHub Pages 静态部署版，避免缺图导致体验断裂。</text>
+</svg>
