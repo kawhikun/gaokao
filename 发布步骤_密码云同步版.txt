@@ -1,0 +1,38 @@
+高考系统 v15 发布步骤（密码版 + 云同步预留）
+
+一、公开仓库要上传什么
+1. 把压缩包解压后的全部网站文件上传到仓库根目录
+2. 必须保留：index.html、各页面 html、assets、accounts.json、cloud-sync.config.json、.nojekyll
+3. 如果暂时不用云同步，也保留 cloud-sync.config.json，默认是关闭状态
+
+二、绝对不要上传什么
+1. 卖家工作台 seller_tool_local_only.html
+2. 明文账号表 accounts_plaintext.txt 或你自己整理的账号密码表
+3. question_bank_backup.json 等题库备份
+4. 私有后端代码、数据库密钥、service role key
+
+三、GitHub Pages 开启方法
+1. 进入仓库 Settings
+2. 打开 Pages
+3. Source 选择 Deploy from a branch
+4. Branch 选择 main
+5. Folder 选择 /(root)
+6. 保存后等待发布
+
+四、密码系统如何工作
+1. 账号库来自根目录 accounts.json
+2. 页面会先读取 accounts.json，再允许账号登录
+3. 如果账号设置了生效时间或失效时间，会按时间判断是否可用
+4. 这版包里已经放好了哈希化账号文件，不需要自己再手改前端代码
+
+五、云同步如何打开
+1. 默认 cloud-sync.config.json 里 enabled=false
+2. 你先把外部云接口部署好
+3. 再把 enabled 改成 true，并把 endpoint 改成你的接口地址
+4. 保存并重新上传 cloud-sync.config.json
+5. 登录后系统会自动尝试“先拉取、再保存”
+
+六、当前推荐做法
+1. 只是想先上线卖课：先只传 GitHub Pages 静态包，云同步先不开
+2. 想让每个账号跨设备保留进度：再接外部数据库或云函数
+3. 后端不要和公开 Pages 放在同一个公开仓库目录里

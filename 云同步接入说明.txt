@@ -1,0 +1,32 @@
+高考系统 v15 云同步接入说明
+
+一、默认状态
+- 本包默认本地可运行
+- cloud-sync.config.json 默认关闭
+- 不接任何后端也能使用密码登录 + 本地保存
+
+二、启用方法
+1. 打开 cloud-sync.config.json
+2. 把 enabled 改为 true
+3. 把 endpoint 改成你的云接口根地址，例如：https://你的域名
+4. pullPath 默认 /state
+5. pushPath 默认 /state
+6. method 默认 PUT
+
+三、前端发送什么
+- 拉取：GET {endpoint}{pullPath}?site=gaokao&account=账号ID
+- 保存：PUT {endpoint}{pushPath}
+- Header:
+  x-frz-site-id
+  x-frz-account-id
+  x-frz-sync-token
+
+四、后端至少要做什么
+1. 校验 accountId 存在
+2. 校验 x-frz-sync-token 是否与 accounts.json 中该账号 verifyHash 对应
+3. 按 siteId + accountId 读写该账号状态 JSON
+4. 返回 JSON
+
+五、建议
+- 小规模先用独立 Node/Cloudflare Workers/Netlify Functions 都行
+- 规模化再接 Firebase 或 Supabase

@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "endpoint": "",
+  "pullPath": "/state",
+  "pushPath": "/state",
+  "method": "PUT",
+  "debounceMs": 1200,
+  "timeoutMs": 10000,
+  "siteId": "gaokao"
+}

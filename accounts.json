@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "generatedAt": "2026-04-22T05:07:15.623911Z",
+  "notes": "Generated for Gaokao v15 / Sports v7 auth+cloud packages. Plaintext credentials are not included in deploy packages.",
+  "accounts": [
+    {
+      "accountId": "C6PD5RJWUYSUPBQB",
+      "loginSalt": "q+naQto1gWRzUX/n",
+      "loginHash": "963a15460bd7889e1fb3bd45b7ffde4f1c20f5eec3f5fb7c684ea50363c2772b",
+      "authSalt": "vG6KzAldkbWeM+S/fgz2HA==",
+      "accountNonce": "tlrnbbfcIDanaGFl",
+      "iterations": 360000,
+      "verifyHash": "c2b03cf383992a50382bcfe298fed31d2a43ef78483994e5ec2eccbae9402feb",
+      "enabled": true,
+      "createdAt": "2026-04-22T05:07:15.385065Z",
+      "notBefore": "2026-03-23T00:00:00Z",
+      "expiresAt": "2027-03-23T00:00:00Z"
+    },
+    {
+      "accountId": "GTZP5CM8XSG2PSYM",
+      "loginSalt": "NiNbrkU5xgVfJYeO",
+      "loginHash": "7ab515df340ff6ed0acbacd71d92712b04d0ebb72bb2f39ef405e2d13bd4fa1f",
+      "authSalt": "74CvurmE3VeFVH5HMQOBxA==",
+      "accountNonce": "LGiAGfHIdGJmarfS",
+      "iterations": 360000,
+      "verifyHash": "80cfee0901ccd3b2af4dc26a9dd1a82ad49a49109c601273f7779f5dad800dd5",
+      "enabled": true,
+      "createdAt": "2026-04-22T05:07:15.504323Z"
+    },
+    {
+      "accountId": "974X6N86ZSNDATEW",
+      "loginSalt": "LnUsR69apZwGI9tI",
+      "loginHash": "8ea509b82fce53c0b02d17a633921556f8b0946323af61acd84fd2a34bfae619",
+      "authSalt": "ujzTCoJDEJIWEWzLj9cHBw==",
+      "accountNonce": "mQ4e5oPGb52jm8X1",
+      "iterations": 360000,
+      "verifyHash": "c024c5a9cf6f21f22a3f2b735c1aa4c73c39c3b67fb4c603e4a61bd34fd42f44",
+      "enabled": true,
+      "createdAt": "2026-04-22T05:07:15.623891Z",
+      "notBefore": "2026-03-31T16:00:00Z",
+      "expiresAt": "2026-09-30T16:00:00Z"
+    }
+  ]
+}
